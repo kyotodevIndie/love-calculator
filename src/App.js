@@ -41,7 +41,6 @@ function App() {
       })
       setLoading(false)
       setVisible(false)
-
     }else{
       setData(apiData)
       setLoading(false)

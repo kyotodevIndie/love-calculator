@@ -69,8 +69,12 @@ button {
   .img {
     margin: 15px 30px 15px;
   }
+  .footer {
+    position: static;
+    margin-bottom: 30px;
+    width: 100%;
+  }
 }
-
 @media (max-width: 380px) {
   .container {
     display: flex;
@@ -81,6 +85,11 @@ button {
   }
   .img {
     margin: 15px 30px 15px;
+  }
+  .footer {
+    position: static;
+    margin: 150px 0px 30px;
+    width: 100%;
   }
 }
 
