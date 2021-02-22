@@ -1,38 +1,109 @@
+html {
+  font-family: "Press Start 2P", cursive;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+h1 {
+  padding-top: 20px;
+  font-size: 20px;
+}
+label,
+button {
+  font-size: 14px;
+}
+
 .App {
+  color: #fff;
+  background-color: black;
   text-align: center;
+  height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 30vh;
 }
 
-.App-link {
-  color: #61dafb;
+.footer {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 30px;
+  width: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.img {
+  margin: 0px 30px 0px;
+}
+
+.btn {
+  margin-top: 40px;
+}
+
+.logo {
+  width: 50px;
+}
+
+.loading {
+  margin-top: 10vh;
+  width: 300px;
+}
+
+.result {
+  margin-top: 20vh;
+}
+
+@media (max-width: 330px) {
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
   }
-  to {
-    transform: rotate(360deg);
+  .img {
+    margin: 15px 30px 15px;
+  }
+}
+
+@media (max-width: 380px) {
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0px 20px 0px 20px;
+    align-items: center;
+  }
+  .img {
+    margin: 15px 30px 15px;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0px 50px 0px 50px;
+  }
+  .img {
+    margin: 15px 30px 15px;
+  }
+}
+
+@media (max-width: 800) {
+  .container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0px 50px 0px 50px;
+  }
+  .img {
+    margin: 15px 30px 15px;
   }
 }
