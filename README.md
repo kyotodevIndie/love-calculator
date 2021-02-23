@@ -3,7 +3,6 @@
     <img src="src/assets/repoassets/logo.svg" alt="Logo" >
   </a>
 </p>
-  <h1 align="center">Love Calculator</h1>
 
   <p align="center">
     A personal project with react to help you to find out what the chances are for you and your crush, using the love-calculator from <a href="https://rapidapi.com/ajith/api/love-calculator">RapidAPI</a>
@@ -18,7 +17,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
  
-<img src="src/assets/repoassets/print1.png"  alt="print 1" >
+<img src="src/assets/repoassets/print1.png"  alt="print 1" width="500" >
 <img src="src/assets/repoassets/print2.png"  alt="print 2" >
 <img src="src/assets/repoassets/print3.png"  alt="print 3" >
 
