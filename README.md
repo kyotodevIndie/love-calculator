@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/kyotodevindie">
-    <img src="readme-assets/logo.png" alt="Logo" width="95" height="100">
+    <img src="src/assets/repoassets/logo.png" alt="Logo" >
   </a>
 </p>
   <h1 align="center">Love Calculator</h1>
@@ -18,9 +18,9 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
  
-<img src="src/assets/repoassets/print1.png"  alt="print 1" width="300" height="300">
-<img src="readme-assets/2.png"  alt="print 2" width="300" height="300">
-<img src="readme-assets/3.png"  alt="print 3" width="300" height="300">
+<img src="src/assets/repoassets/print1.png"  alt="print 1" width="500" height="300">
+<img src="src/assets/repoassets/print2.png"  alt="print 2" width="300" height="300">
+<img src="src/assets/repoassets/print3.png"  alt="print 3" width="300" height="300">
 
 </div>
 
