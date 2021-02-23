@@ -66,12 +66,12 @@ function App() {
       <>
         <div className="container">
           <div className="nes-field">
-            <label htmlFor="name_field">First Name</label>
+            <label htmlFor="name_field">Your Name</label>
             <input type="text" id="name_field" className="nes-input" value={firstName} onChange={e => setFirstName(e.target.value)}/>
           </div>
           <img src={heart} alt='heart' className="img"/>
           <div className="nes-field">
-            <label htmlFor="name_field">Second Name</label>
+            <label htmlFor="name_field">Crush Name</label>
             <input type="text" id="name_field" className="nes-input" value={secondName} onChange={e => setSecondName(e.target.value)}/>
           </div>
         </div>
