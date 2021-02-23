@@ -18,7 +18,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
  
-<img src="readme-assets/1.png"  alt="print 1" width="300" height="300">
+<img src="src/assets/repoassets/print1.png"  alt="print 1" width="300" height="300">
 <img src="readme-assets/2.png"  alt="print 2" width="300" height="300">
 <img src="readme-assets/3.png"  alt="print 3" width="300" height="300">
 
