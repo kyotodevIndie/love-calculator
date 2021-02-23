@@ -13,16 +13,6 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Prints
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
- 
-<img src="src/assets/repoassets/print1.png"  alt="print 1" width="500" >
-<img src="src/assets/repoassets/print2.png"  alt="print 2" width="500" >
-<img src="src/assets/repoassets/print3.png"  alt="print 3" width="500" >
-
-</div>
-
 ### Built With
 
 - [React](https://pt-br.reactjs.org/)
