@@ -6,7 +6,7 @@
   <h1 align="center">Love Calculator</h1>
 
   <p align="center">
-    A personal project with react to help you to find out what the chances are for you and your crush!, using the love-calculator from <a href="https://rapidapi.com/ajith/api/love-calculator">RapidAPI</a>
+    A personal project with react to help you to find out what the chances are for you and your crush, using the love-calculator from <a href="https://rapidapi.com/ajith/api/love-calculator">RapidAPI</a>
     <br />
     <br />
     <a href="https://love-calculator-teal.vercel.app/">View Demo</a>
