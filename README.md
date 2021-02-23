@@ -60,5 +60,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
    <p> 
     thank you for your patience to read this far! if possible, give a star!
    </p> 
-   <img src="readme-assets/1.gif" alt="Logo" width="150" height="150">
+   <img src="src/assets/repoassets/1.gif" alt="Logo" width="150" height="150">
 
