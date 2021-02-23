@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://github.com/kyotodevindie">
-    <img src="src/assets/repoassets/logo.png" alt="Logo" width="95" height="100">
+    <img src="src/assets/repoassets/logo.png" alt="Logo" >
   </a>
 </p>
   <h1 align="center">Love Calculator</h1>
