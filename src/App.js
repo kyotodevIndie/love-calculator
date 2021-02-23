@@ -1,6 +1,7 @@
 import React from 'react'
 import './App.css';
 import heart from './assets/heart.svg'
+import shine from './assets/shine.gif'
 import Footer from './components/Footer';
 import Loading from './components/Loading';
 import Header from './components/Header';
@@ -78,6 +79,11 @@ function App() {
       </>
       :
       <>
+      <img src={shine} alt="shining" className="shine1" />
+      <img src={shine} alt="shining" className="shine2" />
+      <img src={shine} alt="shining" className="shine3" />
+      <img src={shine} alt="shining" className="shine4" />
+
         <div className="result">
         <h1>Result</h1>
         <p>{data.percentage} %</p>

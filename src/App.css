@@ -57,6 +57,35 @@ button {
   margin-top: 20vh;
 }
 
+.shine1 {
+  position: absolute;
+  left: 550px;
+  top: 150px;
+  width: 50px;
+  transform: rotate(0deg);
+}
+.shine2 {
+  position: absolute;
+  right: 550px;
+  top: 250px;
+  width: 50px;
+  transform: rotate(90deg);
+}
+.shine3 {
+  position: absolute;
+  left: 570px;
+  top: 400px;
+  width: 50px;
+  transform: rotate(180deg);
+}
+.shine4 {
+  position: absolute;
+  right: 570px;
+  top: 500px;
+  width: 50px;
+  transform: rotate(-90deg);
+}
+
 @media (max-width: 330px) {
   .container {
     display: flex;
@@ -68,6 +97,34 @@ button {
   }
   .img {
     margin: 15px 30px 15px;
+  }
+  .shine1 {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    width: 50px;
+    transform: rotate(0deg);
+  }
+  .shine2 {
+    position: absolute;
+    right: 30px;
+    top: 250px;
+    width: 50px;
+    transform: rotate(90deg);
+  }
+  .shine3 {
+    position: absolute;
+    left: 40px;
+    top: 480px;
+    width: 50px;
+    transform: rotate(180deg);
+  }
+  .shine4 {
+    position: absolute;
+    right: 70px;
+    top: 460px;
+    width: 50px;
+    transform: rotate(-90deg);
   }
 }
 
@@ -82,6 +139,34 @@ button {
   .img {
     margin: 15px 30px 15px;
   }
+  .shine1 {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    width: 50px;
+    transform: rotate(0deg);
+  }
+  .shine2 {
+    position: absolute;
+    right: 30px;
+    top: 250px;
+    width: 50px;
+    transform: rotate(90deg);
+  }
+  .shine3 {
+    position: absolute;
+    left: 40px;
+    top: 480px;
+    width: 50px;
+    transform: rotate(180deg);
+  }
+  .shine4 {
+    position: absolute;
+    right: 70px;
+    top: 460px;
+    width: 50px;
+    transform: rotate(-90deg);
+  }
 }
 
 @media (max-width: 500px) {
@@ -94,6 +179,34 @@ button {
   .img {
     margin: 15px 30px 15px;
   }
+  .shine1 {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    width: 50px;
+    transform: rotate(0deg);
+  }
+  .shine2 {
+    position: absolute;
+    right: 30px;
+    top: 250px;
+    width: 50px;
+    transform: rotate(90deg);
+  }
+  .shine3 {
+    position: absolute;
+    left: 40px;
+    top: 480px;
+    width: 50px;
+    transform: rotate(180deg);
+  }
+  .shine4 {
+    position: absolute;
+    right: 70px;
+    top: 460px;
+    width: 50px;
+    transform: rotate(-90deg);
+  }
 }
 
 @media (max-width: 800) {
@@ -105,5 +218,33 @@ button {
   }
   .img {
     margin: 15px 30px 15px;
+  }
+  .shine1 {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    width: 50px;
+    transform: rotate(0deg);
+  }
+  .shine2 {
+    position: absolute;
+    right: 30px;
+    top: 250px;
+    width: 50px;
+    transform: rotate(90deg);
+  }
+  .shine3 {
+    position: absolute;
+    left: 40px;
+    top: 480px;
+    width: 50px;
+    transform: rotate(180deg);
+  }
+  .shine4 {
+    position: absolute;
+    right: 70px;
+    top: 460px;
+    width: 50px;
+    transform: rotate(-90deg);
   }
 }
